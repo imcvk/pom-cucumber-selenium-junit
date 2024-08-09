@@ -1,5 +1,5 @@
 Feature: Test BDD framework
-
+  @smokeTest
   Scenario: Testing the scenario for BDD framework
     Given Open Url
     When User enters Name,Email,Gender,Mobile
